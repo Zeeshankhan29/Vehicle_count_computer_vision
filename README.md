@@ -12,5 +12,5 @@ Parking issues are very common and needs human intervention in many public place
 
 
 ## Applications
-1.Can be used to track the vehicle entering the malls,commerical places
+1.Can be used to track the vehicle entering the malls,commerical places     
 2.Traffic Manamgement
